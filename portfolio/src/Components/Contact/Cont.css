@@ -1,0 +1,40 @@
+.contact{
+    text-align: center;
+    color: white;
+    width: 100vw;
+   
+}
+.cont-title{
+    font-size: 1.80rem;
+    padding: 1.80rem;
+}
+.cont-title:hover{
+    color:  rgba(2, 195, 195, 0.787);
+}
+#c-box{
+    height: 4rem;
+    width: 30rem;
+    margin: 0.80rem;
+    font-size: 2rem;
+    padding-left: 2rem;
+    border-radius: 5rem;
+   
+}
+#cont-box{
+    height: 12rem;
+    width: 30rem;
+    margin: 0.80rem;
+    font-size: 2rem;
+    border-radius: 1rem;
+    padding-left: 2rem;
+    padding-top: 20px;
+  
+}
+#cont-btm{
+    height: 4rem;
+    width: 25rem;
+    font-size: 3rem;
+    border: none;
+ 
+
+}

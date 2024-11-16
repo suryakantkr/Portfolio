@@ -1,0 +1,35 @@
+.Skill {
+    color: white;
+    text-align: center;
+    width: 100vw;
+    height: 90vh;
+}
+.title{
+    font-size: 2rem;
+    padding-top: 3rem;
+   padding-bottom: 6rem;
+}
+.title:hover{
+    color:  rgba(2, 195, 195, 0.787);
+}
+.img-container{
+    display: flex;
+    height: 40rem;
+    width: 100vw;
+}
+
+#html-img {
+    height: 20rem;
+    width: 40rem;
+}
+
+#react-img {
+    height: 20rem;
+    width: 20rem;
+    border-radius: 50%;
+}
+#java-img {
+    height: 20rem;
+    width: 20rem;
+    border-radius: 50%;
+}
