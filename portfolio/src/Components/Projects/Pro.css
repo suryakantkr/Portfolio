@@ -1,0 +1,28 @@
+.Project{
+    color: white;
+    height: 40rem;
+    width: 100vw;
+    text-align: center;
+}
+.para-pro{
+    display: flex;
+}
+.box{
+    color: black;
+    height: 14rem;
+    width: 19.70rem;
+    margin: 2rem;
+    font-size: 2rem;
+}
+.img-size{
+    height: 15rem;
+    width: 19.70rem;
+    border-radius: 2rem;
+}
+.heading-project{
+    font-size:1.80rem;;
+}
+.heading-project:hover{
+    color:  rgba(2, 195, 195, 0.787);
+
+}

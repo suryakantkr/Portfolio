@@ -1,0 +1,44 @@
+.About{
+    color: white;
+    text-align: center;
+    height: 86vh;
+    width: 100vw;
+    display: flex;
+ 
+}
+.about-title:hover{
+    color:  rgba(2, 195, 195, 0.787);
+}
+.img-about{
+    height: 85vh;
+    width: 35vw;
+}
+#surya1-img{
+    height: 70vh;
+    width: 25vw;
+   padding-top: 3rem;
+}
+.heading-about{
+    height: 85vh;
+    width: 100vw;
+    font-size: 1.80rem;
+    text-align: center;
+}
+.para1-about{
+    text-align: left;
+    font-size: 2rem;
+    margin-left: 4rem;
+    margin-right: 4rem;
+}
+.para1-about p{
+    margin: 1rem;
+    padding-top: 1rem;
+    font-style: italic;
+
+}
+#about-btm{
+    height: 4rem;
+   width: 25rem;
+   font-size: 3rem;
+   border: none;
+}
