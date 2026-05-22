@@ -1,0 +1,149 @@
+.About {
+    color: white;
+    text-align: center;
+    height: 86vh;
+    width: 100vw;
+    display: flex;
+
+}
+
+.about-title:hover {
+    color: rgba(2, 195, 195, 0.787);
+}
+
+.img-about {
+    height: 85vh;
+    width: 35vw;
+}
+
+#surya1-img {
+    height: 70vh;
+    width: 25vw;
+    padding-top: 3rem;
+}
+
+.heading-about {
+    height: 85vh;
+    width: 100vw;
+    font-size: 1.80rem;
+    text-align: center;
+}
+
+.para1-about {
+    text-align: left;
+    font-size: 2rem;
+    margin-left: 4rem;
+    margin-right: 4rem;
+}
+
+.para1-about p {
+    margin: 1rem;
+    padding-top: 1rem;
+    font-style: italic;
+
+}
+
+#about-btm {
+    height: 4rem;
+    width: 25rem;
+    font-size: 3rem;
+    border: none;
+}
+
+/* Small Laptop Screen 1250px */
+@media screen and (max-width: 1250px) {
+
+    .About {
+        gap: 1rem;
+        padding: 1.5rem;
+    }
+
+    .heading-about {
+        font-size: 1.5rem;
+    }
+
+    .para1-about {
+        font-size: 1.5rem;
+        margin-left: 2rem;
+        margin-right: 2rem;
+    }
+
+    #surya1-img {
+        height: 60vh;
+    }
+
+    #about-btm {
+        width: 20rem;
+        font-size: 2rem;
+    }
+}
+
+/* Tablet Screen 1000px */
+
+@media screen and (max-width: 1000px) {
+
+    .About {
+        flex-direction: column;
+        height: auto;
+    }
+
+    .img-about {
+        width: 100%;
+    }
+
+    #surya1-img {
+        width: 300px;
+        height: auto;
+        padding-top: 1rem;
+    }
+
+    .heading-about {
+        width: 100%;
+        font-size: 1.3rem;
+    }
+
+    .para1-about {
+        font-size: 1.3rem;
+        margin: 1rem 2rem;
+        text-align: center;
+    }
+
+    #about-btm {
+        width: 18rem;
+        font-size: 1.8rem;
+        height: 3.5rem;
+    }
+}
+
+/* Mobile Screen 500px */
+
+@media screen and (max-width: 500px) {
+
+    .About {
+        padding: 1rem;
+    }
+
+    #surya1-img {
+        width: 220px;
+    }
+
+    .heading-about {
+        font-size: 1rem;
+    }
+
+    .para1-about {
+        font-size: 1rem;
+        margin: 1rem;
+        text-align: center;
+    }
+
+    .para1-about p {
+        line-height: 1.7;
+    }
+
+    #about-btm {
+        width: 12rem;
+        height: 3rem;
+        font-size: 1.2rem;
+    }
+}

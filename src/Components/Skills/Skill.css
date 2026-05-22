@@ -1,0 +1,110 @@
+.Skill {
+    color: white;
+    text-align: center;
+    width: 100vw;
+    height: 90vh;
+}
+.title{
+    font-size: 2rem;
+    padding-top: 3rem;
+   padding-bottom: 6rem;
+}
+.title:hover{
+    color:  rgba(2, 195, 195, 0.787);
+}
+.img-container{
+    display: flex;
+    height: 40rem;
+    width: 100vw;
+}
+
+#html-img {
+    height: 20rem;
+    width: 40rem;
+}
+
+#react-img {
+    height: 20rem;
+    width: 20rem;
+    border-radius: 50%;
+}
+#java-img {
+    height: 20rem;
+    width: 20rem;
+    border-radius: 50%;
+}
+/* Small Laptop Screen 1250px */
+
+@media screen and (max-width: 1250px){
+
+    .title{
+        font-size: 1.7rem;
+    }
+
+    #html-img{
+        width: 32rem;
+        height: 18rem;
+    }
+
+    #react-img,
+    #java-img{
+        width: 18rem;
+        height: 18rem;
+    }
+}
+
+/* Tablet Screen 1000px */
+
+@media screen and (max-width: 1000px){
+
+    .img-container{
+        gap: 2rem;
+    }
+
+    .title{
+        font-size: 1.5rem;
+        padding-bottom: 3rem;
+    }
+
+    #html-img{
+        width: 28rem;
+        height: 16rem;
+    }
+
+    #react-img,
+    #java-img{
+        width: 15rem;
+        height: 15rem;
+    }
+}
+
+/* Mobile Screen 500px */
+
+@media screen and (max-width: 500px){
+
+    .Skill{
+        padding: 1rem;
+    }
+
+    .title{
+        font-size: 1.2rem;
+        padding-top: 1rem;
+        padding-bottom: 2rem;
+    }
+
+    .img-container{
+        flex-direction: column;
+        gap: 1.5rem;
+    }
+
+    #html-img{
+        width: 90%;
+        height: 12rem;
+    }
+
+    #react-img,
+    #java-img{
+        width: 12rem;
+        height: 12rem;
+    }
+}
