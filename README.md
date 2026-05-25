@@ -62,15 +62,21 @@ Here are the key applications highlighted within this portfolio. Clicking the pr
 ## 📬 Contact Me
 
 Feel free to reach out to collaborate or discuss development opportunities!
-* **Location:** Suryakant Kumar
+* **Name:** Suryakant Kumar
 * **Location:** Aurangabad, Bihar (India) 
-* **Name:** 9022334750
+* **Phone No.:** 9022334750
 
 ## How its looks.
+
+## HOME PAGE
 <img width="1884" height="908" alt="Screenshot 2026-05-23 090243" src="https://github.com/user-attachments/assets/f5963803-3800-4cd4-a12e-2577acf74744" />
+## ABOUY PAGE
 <img width="1877" height="907" alt="Screenshot 2026-05-23 090321" src="https://github.com/user-attachments/assets/8edd69f6-9766-45cb-ac5c-f28baf9954bc" />
+## SKILLS PAGE
 <img width="1882" height="908" alt="Screenshot 2026-05-23 090358" src="https://github.com/user-attachments/assets/58c7ed7b-f570-4194-9ad7-e9b96c82e82d" />
+## PROJECTS PAGE
 <img width="1884" height="916" alt="Screenshot 2026-05-23 090419" src="https://github.com/user-attachments/assets/795ab4f9-b2f1-40cc-b4fc-05e7b749cba1" />
+## CONTACT PAGE
 <img width="1886" height="908" alt="Screenshot 2026-05-23 090446" src="https://github.com/user-attachments/assets/917860fd-fe07-4441-82ff-e32190423a8c" />
 
 
