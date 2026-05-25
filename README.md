@@ -1,70 +1,66 @@
-# Getting Started with Create React App
+# Full-Stack Developer Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to my personal portfolio website! This platform serves as a comprehensive showcase of my academic background, technical skills, and the web development applications I have built as a Full-Stack Developer.
 
-## Available Scripts
+🔗 **Live Demo:** [View Live Website](https://your-github-username.github.io/my-portfolio/) *(Replace with your live link)*
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 🚀 About Me
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+I am **Suryakant Kumar**, a Computer Science and Engineering graduate specialized in Cyber Security from Sengunthar Engineering College, Tamil Nadu. Originally from Aurangabad, Bihar, I am passionate about engineering robust web applications, writing clean code, and solving complex algorithmic challenges. My web development journey actively began in 2022.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## 🛠️ Technologies Used
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Frontend Technologies
+* HTML5
+* CSS3
+* JavaScript (ES6+)
+* React.js (Framework)
+* Bootstrap
 
-### `npm run build`
+### Backend Technologies
+* Node.js
+* Express.js
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Database
+* MongoDB
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Other Core Competencies
+* Java (Data Structures & Algorithms)
+* Database Theory & MySQL
+* Git & Version Control
+* Command Line / Terminal
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## 💻 Projects Showcased
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Here are the key applications highlighted within this portfolio. Clicking the project images on the live site links directly to their active deployments:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+1. **Meesho Clone App** – A fully responsive frontend replica of the popular e-commerce ecosystem.
+2. **Amazon Clone** – A functional clone highlighting essential marketplace layout structures.
+3. **Steganography and Steganalysis System** – An advanced application incorporating deep learning concepts for secure digital image communication.
+4. **Interactive Web Portfolio** – This website itself, serving as a hub for my professional identity.
+5. **Interactive Web Games** – A suite of micro-applications testing logical flows:
+   * Tic-Tac-Toe Game
+   * Simon Game
+   * Rock Paper Scissors Game
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 🔑 Key Features Implemented
 
-## Learn More
+* **Fully Responsive UI:** Adapts fluidly across mobile screens, tablets, and desktop displays.
+* **Interactive Project Grid:** Project cards are configured to open live working URLs in secure external tabs.
+* **Functional Contact Form:** Built to securely capture client requests, tracking communication details seamlessly.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 📬 Contact Me
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Feel free to reach out to collaborate or discuss development opportunities!
+* **Name:** Suryakant Kumar
+* **Location:** Aurangabad, Bihar / Tamil Nadu, India
